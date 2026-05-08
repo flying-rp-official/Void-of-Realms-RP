@@ -1,1 +1,1 @@
-# Void-of-Realms-RP  [License Summary](docs/LICENSE_SUMMARY.md)
+# Void-of-Realms-RP  [License](LICENSE.md)
